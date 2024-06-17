@@ -1,24 +1,18 @@
-<p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
+<p align="center"><img src="https://imgur.com/a/EzVdAuM"></p>
 
 ## Usage
 
 ### Create an App
 
 ```
-# with npx
-$ npx create-nextron-app my-app --example with-tailwindcss
-
-# with yarn
-$ yarn create nextron-app my-app --example with-tailwindcss
-
-# with pnpm
-$ pnpm dlx create-nextron-app my-app --example with-tailwindcss
+# with git
+$ git clone https://github.com/jekigates/nextron-tailwind-shadcn-template.git
 ```
 
 ### Install Dependencies
 
 ```
-$ cd my-app
+$ cd nextron-tailwind-shadcn-template
 
 # using yarn or npm
 $ yarn (or `npm install`)
