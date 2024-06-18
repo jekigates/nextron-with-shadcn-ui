@@ -57,7 +57,7 @@ export default function AboutPage() {
                             </Link>
 
                             <a
-                                href="https://github.com/jekigates/nextron-tailwind-shadcn-template"
+                                href="https://github.com/jekigates/nextron-with-shadcn-ui.git"
                                 target="_blank"
                                 rel="noreferrer"
                                 className={buttonVariants({
