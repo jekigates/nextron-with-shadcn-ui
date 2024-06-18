@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/4yVW6bV.png"></p>
+<p align="center"><img src="https://i.imgur.com/Tp7AJyT.png"></p>
 
 ## Usage
 
@@ -6,13 +6,13 @@
 
 ```
 # with git
-$ git clone https://github.com/jekigates/nextron-tailwind-shadcn-template.git
+$ git clone https://github.com/jekigates/nextron-with-shadcn-ui
 ```
 
 ### Install Dependencies
 
 ```
-$ cd nextron-tailwind-shadcn-template
+$ cd nextron-with-shadcn-ui
 
 # using yarn or npm
 $ yarn (or `npm install`)
